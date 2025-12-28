@@ -9,7 +9,7 @@ The goal is simple:
 
 ## 📸 Demo
 
-![CROWDSENSE Demo](demo.png)
+![CROWDSENSE Demo](mongo1.png)
 
 
 > Add a screenshot, GIF, or short video of your app here to showcase the workflow.
