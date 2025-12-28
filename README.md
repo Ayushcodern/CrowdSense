@@ -9,7 +9,8 @@ The goal is simple:
 
 ## 📸 Demo
 
-![CROWDSENSE Demo](assets/demo.png)
+![CROWDSENSE Demo](demo.png)
+
 
 > Add a screenshot, GIF, or short video of your app here to showcase the workflow.
 
